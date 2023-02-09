@@ -6,6 +6,6 @@ You are given n, the number of teaspoons of sugar that the recipe states is requ
 
 ### Extra clarifications:
 
-[.] After x the cake is too sweet
-[.] n is superior or equal to 1
-[.] For any value of n, your cake will be always too sweet (x always exists)
+    After x the cake is too sweet
+    n is superior or equal to 1
+    For any value of n, your cake will be always too sweet (x always exists)
