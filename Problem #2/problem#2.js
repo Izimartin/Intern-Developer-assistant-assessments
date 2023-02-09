@@ -1,3 +1,9 @@
+/*
+Author: Martins Akhivbareme
+Date: February 9, 2023
+Description: Solution to Problem #2 for ALX SE Intern Developer assistant - assessments.
+*/
+
 function maxPower(fields, towers) {
   // Sort the towers array in ascending order.
   towers.sort((a, b) => a - b);
