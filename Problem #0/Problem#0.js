@@ -1,3 +1,9 @@
+/*
+Author: Martins Akhivbareme
+Date: February 9, 2023
+Description: Solution to Problem #0 for ALX SE Intern Developer assistant - assessments.
+*/
+
 function findX(n, isTooSweet) {
   // Initialize the low and high values for the binary search range
   let low = n;
