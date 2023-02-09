@@ -1,3 +1,9 @@
+/*
+Author: Martins Akhivbareme
+Date: February 9, 2023
+Description: Solution to Problem #1 for ALX SE Intern Developer assistant - assessments.
+*/
+
 function maxA(N) {
   // Create an array to store the maximum number of 'A's that can be printed on the screen after pressing the keys i times.
   let dp = new Array(N + 1).fill(0);
